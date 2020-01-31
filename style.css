@@ -1,0 +1,55 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+.flag {
+  position: absolute;
+left: 18.08%;
+right: 77.45%;
+top: 36.36%;
+bottom: 49.26%;
+}
+.inform {
+  position: absolute;
+  left: 24.16%;
+  right: 18.01%;
+  top: 35.54%;
+  bottom: 50.58%;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #ffffff;
+}
+.login {
+  position: absolute;
+  left: 44.44%;
+  width: 151px;
+  height: 44px;
+  right: 44.51%;
+  top: 57.36%;
+  bottom: 35.37%;
+  border: 1px solid;
+  border-radius: 5px;
+  color: #fefeff;
+
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 21px;
+
+  outline: none;
+
+  background: #00cdbc;
+}
+.background {
+  background-image: url('img/6333ff9f3e9a5f178da2439c5b9a9496.png');
+  background-repeat: no-repeat;
+  background-color: #3556B1;
+  background-size: 1536px 750px;
+}
